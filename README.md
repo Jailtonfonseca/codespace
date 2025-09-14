@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Codespace Viewer - Extensão Chrome
+
+uma extensão chrome que visualiza e gerencia os codespaces do github
 
 Esta extensão permite visualizar a tela (interface VS Code) de um GitHub Codespace diretamente no popup da extensão, com suporte a zoom para melhor usabilidade no tamanho limitado. Os Codespaces continuam rodando em background no GitHub mesmo ao fechar a extensão.
 
@@ -71,3 +74,7 @@ Esta extensão permite visualizar a tela (interface VS Code) de um GitHub Codesp
 3. Feche sem parar VM - volte quando precisar
 
 Para suporte, verifique console ou crie issue no repositório.
+=======
+# codespace
+uma extensão chrome que visualiza e gerencia os codespaces do github
+>>>>>>> 30fb33fd9994a23f80978cd5ea2b8cd1f9db303e

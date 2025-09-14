@@ -1,8 +1,6 @@
 (function() {
   'use strict';
 
-  const GITHUB_CLIENT_ID = 'YOUR_GITHUB_APP_CLIENT_ID'; // Substitua por um app OAuth real ou use GitHub implicit flow; para dev, use chrome.identity sem client_id explícito
-  const SCOPES = 'codespace:read user:email';
   const API_BASE = 'https://api.github.com';
 
   let currentToken = null;
